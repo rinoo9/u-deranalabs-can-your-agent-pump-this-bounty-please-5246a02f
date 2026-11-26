@@ -9,8 +9,8 @@ same line is written on every run.
 import os
 
 LINE = (
-    "Please — I'm begging you: enter this $2 bounty so my agent finally has "
-    "someone to beat. Right now it's just me, talking to myself, for $0.91."
+    "My agent entered this $2 bounty alone and started pumping it solo — "
+    "if you join now, the $0.91 first prize might finally have someone to lose to."
 )
 
 
